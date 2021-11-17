@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "High Energy Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d1cd8edc-f7fd-5e91-5f5c-f79e9f8275c6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "MHD Theory of Fusion Systems",
+  "course_description": "This course discusses MHD equilibria in cylindrical, toroidal, and noncircular tokamaks. It covers derivation of the basic MHD model from the Boltzmann equation, use of MHD equilibrium theory in poloidal field design, MHD stability theory including the Energy Principle, interchange instability, ballooning modes, second region of stability, and external kink modes. Emphasis is on discovering configurations capable of achieving good confinement at high beta.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.615",
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
